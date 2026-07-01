@@ -89,7 +89,7 @@ open_to     : Internships & Collaborations
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkhatrik6&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d0d0d&title_color=A78BFA&icon_color=7C3AED&text_color=e2e8f0" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkhatrik6&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d0d0d&title_color=A78BFA&icon_color=7C3AED&text_color=e2e8f0" /> -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkhatrik6&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=e2e8f0" />
 
 <br/>
