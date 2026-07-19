@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHouse - ankitkhatrik6](https://git-house-five.vercel.app/api/embed/ankitkhatrik6?theme=light&transparent=true)](https://git-house-five.vercel.app/ankitkhatrik6)
+[![GitHouse - ankitkhatrik6](https://githouse.ankitak.com.np/api/embed/ankitkhatrik6?theme=light&transparent=true)](https://githouse.ankitak.com.np/ankitkhatrik6)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=BSc+CSIT+Student+%40+ASCOL+%7C+2nd+Sem;Full+Stack+Developer+%7C+PHP+%2B+React+%2B+Django;AI+%2F+ML+Enthusiast+%7C+Security-Minded+Builder;From+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
