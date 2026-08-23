@@ -1,84 +1,78 @@
 <div align="center">
 
-[![GitHouse - ankitkhatrik6](https://githouse.ankitak.com.np/api/embed/ankitkhatrik6?theme=light)](https://githouse.ankitak.com.np/ankitkhatrik6)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Ankit;I+build+things+for+the+web;currently%3A+2nd+sem+%40+ASCOL;probably+breaking+something+rn" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=BSc+CSIT+Student+%40+ASCOL+%7C+2nd+Sem;Full+Stack+Developer+%7C+PHP+%2B+React+%2B+Django;AI+%2F+ML+Enthusiast+%7C+Security-Minded+Builder;From+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/ankitkhatri.me-%237C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ankitkhatri.me)
-[![Email](https://img.shields.io/badge/ankitkhatrik6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkhatrik6@gmail.com)
-[![Instagram](https://img.shields.io/badge/@21ank1t-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/21ank1t)
-[![GitHub](https://img.shields.io/badge/ankitkhatrik6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitkhatrik6)
+### ⋆｡‧˚ʚ about me ɞ˚‧｡⋆
 
-</div>
+hii, I'm Ankit. full stack dev sitting in Kathmandu, Nepal, currently
+2nd sem BSc CSIT @ ASCOL. I end up building a lot of small tools for
+myself, then they turn into real projects somehow.
 
----
+no fixed niche honestly, some civic tech, some random utilities, some
+stuff I built just to see if I could. lately I keep circling back to
+AI/ML and security because I like knowing why things break, not just
+that they broke.
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-
-### `whoami`
-
-```yaml
-name        : Ankit
-location    : Kathmandu, Nepal 🏔️
-education   : BSc CSIT — 2nd Semester @ ASCOL
-focus       : Full Stack Web Development
-interests   :
-  - AI & Machine Learning
-  - Cybersecurity & Secure Systems
-  - Real-world Problem Solving
-currently   : Building production-grade web apps
-              and exploring AI integrations
-open_to     : Internships & Collaborations
+```
+idea → build → break it myself → fix → move on
 ```
 
-<br clear="right"/>
+<br/>
 
----
+### ┄┄ what's actually in my repos ┄┄
 
-### 🧰 Tech Arsenal
+mostly typescript these days, that's just where I live now. python
+shows up when I need something quick or when it's a data/AI thing.
+touched c and c++ back in coursework, php for older wordpress style
+work, html/css whenever I'm not using a framework.
 
-<div align="center">
+my stack in words, not badges:
+typescript, javascript, python, php, c, c++
+react on the frontend, django and node/socket.io on the backend
+mysql and firebase for storage, git and github obviously
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### ⌗ some repos worth a look
 
-**Frontend**
+**sajilo-alert** ↴
+a library I authored and actually maintain, published properly
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**LoveStream** ↴
+real time youtube watch party for two people, socket based sync, made this because normal watch party tools felt clunky
 
-**Backend & Frameworks**
+**GitHouse** ↴
+turns your github activity into a little generated house, mostly just a fun stateless side thing
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+**tu-coverify** ↴
+lab report cover page generator for TU students, real time preview, exports fast, built this because I was tired of formatting mine manually
 
-**Databases & Cloud**
+**8085-kit** ↴
+interactive 3D simulator for the 8085 microprocessor, write and run assembly and watch the registers and memory move
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**nepgeo / sajilo-qr / tu-scraper / tu-notifier / tu-compiler**
+smaller utilities, mostly TU or Nepal specific problems I ran into and just fixed for myself
 
-**Tools**
+**portfolio**
+my site, react + vite + framer motion, lives at ankitkhatri.me
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br/>
 
-</div>
+### ⌗ currently
 
----
+- building production grade web apps and poking at AI integrations on the side
+- open to internships and collabs, just message me
+- somewhere in a random rabbit hole unrelated to all of this
 
-### 📈 Contribution Activity
+<br/>
+
+### ˚₊‧ contribution graph ‧₊˚
 
 <div align="center">
 
@@ -86,29 +80,23 @@ open_to     : Internships & Collaborations
 
 </div>
 
----
+<br/>
 
-### 💡 Dev Philosophy
+### ⁺ ﹒ find me elsewhere ﹒ ⁺
 
-<div align="center">
+portfolio → [ankitkhatri.me](https://ankitkhatri.me)
+mail → ankitkhatrik6@gmail.com
+github → [ankitkhatrik6](https://github.com/ankitkhatrik6)
+instagram → [@21ank1t](https://instagram.com/21ank1t)
 
-> *"The best code is the kind that solves a real problem simply — not the kind that shows off how clever you are."*
-
-</div>
-
-```
-Build → Break → Learn → Repeat
-```
-
-Every project is a chance to understand something deeper , whether it's
-a system vulnerability, a model that misbehaves, or a UI that confuses users.
-That curiosity is the engine.
-
----
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkhatrik6&label=Profile+Views&color=7C3AED&style=flat-square)
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
+*"the best code solves a real problem simply, not the kind that shows off how clever you are"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankitkhatrik6&label=views&color=7C3AED&style=flat-square)
 
 </div>
