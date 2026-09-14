@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=ANKIT%20KHATRI&fontSize=42&fontColor=A78BFA&fontAlignY=40&desc=full%20stack%20developer%20%C2%B7%20kathmandu%2C%20nepal&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=ANKIT%20KHATRI%20KC&fontSize=42&fontColor=A78BFA&fontAlignY=40&desc=full%20stack%20developer%20%C2%B7%20kathmandu%2C%20nepal&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 ```text
 $ ./profile --whoami
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  user      ankit khatri
+  user      ankit khatri kc
   role      fullstack developer
   location  kathmandu, nepal · 27.7°N, 85.3°E
   study     bsc csit · 2nd sem · ascol
@@ -42,10 +42,6 @@ I care more about *why* something broke than the fact that it did. That's the pa
 ## `[ 02 ]` · the stack
 
 Most nights I'm writing **TypeScript** — it's where I live now. **Python** shows up when something needs to be quick or data-shaped, and everything else is just whatever the problem demands.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkhatrik6&layout=compact&bg_color=0d0d0d&hide_border=true&langs_count=8" width="100%"/>
-</div>
 
 <br/>
 
@@ -124,10 +120,6 @@ Most nights I'm writing **TypeScript** — it's where I live now. **Python** sho
 
 the graph doesn't lie.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkhatrik6&bg_color=0d0d0d&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -141,13 +133,15 @@ the graph doesn't lie.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkhatrik6&theme=highcontrast&hide_border=true"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitkhatrik6&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 ## `[ 05 ]` · elsewhere
 
 <p align="center">
-  <a href="https://ankitkhatri.me"><img src="https://img.shields.io/badge/portfolio-ankitkhatri.me-0d0d0d?style=for-the-badge&logo=firefox&logoColor=A78BFA&color=1a1a2e"/></a>
+  <a href="https://ankitak.com.np"><img src="https://img.shields.io/badge/portfolio-ankitak.com.np-0d0d0d?style=for-the-badge&logo=firefox&logoColor=A78BFA&color=1a1a2e"/></a>
   <a href="https://github.com/ankitkhatrik6"><img src="https://img.shields.io/badge/github-ankitkhatrik6-0d0d0d?style=for-the-badge&logo=github&logoColor=A78BFA&color=1a1a2e"/></a>
   <a href="mailto:ankitkhatrik6@gmail.com"><img src="https://img.shields.io/badge/mail-ankitkhatrik6-0d0d0d?style=for-the-badge&logo=gmail&logoColor=A78BFA&color=1a1a2e"/></a>
   <a href="https://instagram.com/21ank1t"><img src="https://img.shields.io/badge/instagram-21ank1t-0d0d0d?style=for-the-badge&logo=instagram&logoColor=A78BFA&color=1a1a2e"/></a>
