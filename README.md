@@ -19,15 +19,15 @@
 <br/>
 
 ```text
-$ ./profile --whoami
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  user      ankit khatri kc
-  role      fullstack developer
-  location  kathmandu, nepal · 27.7°N, 85.3°E
-  study     bsc csit · 2nd sem · ascol
-  status    open to internships & collabs
-  focus     production web apps · ai integrations
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+$ ankit --whoami
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  user    ankit khatri kc
+  role    fullstack developer
+  home    kathmandu, nepal
+  study   bsc csit · ascol
+  status  open to internships
+  focus   ai/ml · security · web
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 $ ▊
 ```
 
@@ -82,11 +82,14 @@ Most nights I'm writing **TypeScript** — it's where I live now. **Python** sho
 <summary><b>real products — the ones people actually use</b></summary>
 <br/>
 
-| project | stack | what it does |
-|---|---|---|
-| [**KhajaPOS**](https://github.com/ankitkhatrik6/KhajaPOS) | Laravel | point-of-sale, stock & billing for small food and retail counters — no enterprise bloat |
-| [**LoveStream**](https://github.com/ankitkhatrik6/LoveStream) | React · Node · Socket.io | real-time synced YouTube watch party for two — kills the autoplay-policy ghost with a "tap to sync" unlock |
-| [**sajilo-alert**](https://github.com/ankitkhatrik6/sajilo-alert) | TypeScript | published library I author and maintain — docs, versioning, the whole ceremony |
+**📦 [KhajaPOS](https://github.com/ankitkhatrik6/KhajaPOS)** · `Laravel`
+> point-of-sale, stock & billing for small food and retail counters — no enterprise bloat
+
+**💬 [LoveStream](https://github.com/ankitkhatrik6/LoveStream)** · `React · Node · Socket.io`
+> real-time synced YouTube watch party for two — kills the autoplay-policy ghost with a "tap to sync" unlock
+
+**📦 [sajilo-alert](https://github.com/ankitkhatrik6/sajilo-alert)** · `TypeScript`
+> published library I author and maintain — docs, versioning, the whole ceremony
 
 </details>
 
@@ -94,13 +97,20 @@ Most nights I'm writing **TypeScript** — it's where I live now. **Python** sho
 <summary><b>TU / student-life fixes — scratched my own itch</b></summary>
 <br/>
 
-| project | stack | what it does |
-|---|---|---|
-| [**tu-coverify**](https://github.com/ankitkhatrik6/tu-coverify) | TypeScript · Typst | TU lab-report cover page generator with real-time preview and one-click export |
-| [**tu-scraper**](https://github.com/ankitkhatrik6/tu-scraper) | TypeScript | pulls official TU notices across all 8 verified faculty & institute portals |
-| [**tu-notifier**](https://github.com/ankitkhatrik6/tu-notifier) | TypeScript | Discord bot — instant TU notice alerts, search, and PDF previews |
-| [**tu-compiler**](https://github.com/ankitkhatrik6/tu-compiler) | TypeScript | small utilities chipping away at TU workflow annoyances |
-| [**nepgeo**](https://github.com/ankitkhatrik6/nepgeo) · [**sajilo-qr**](https://github.com/ankitkhatrik6/sajilo-qr) | TypeScript | Nepal-specific geo and QR utilities, built for reuse rather than one-offs |
+**🎓 [tu-coverify](https://github.com/ankitkhatrik6/tu-coverify)** · `TypeScript · Typst`
+> TU lab-report cover page generator with real-time preview and one-click export
+
+**🎓 [tu-scraper](https://github.com/ankitkhatrik6/tu-scraper)** · `TypeScript`
+> pulls official TU notices across all 8 verified faculty & institute portals
+
+**🎓 [tu-notifier](https://github.com/ankitkhatrik6/tu-notifier)** · `TypeScript`
+> Discord bot — instant TU notice alerts, search, and PDF previews
+
+**🎓 [tu-compiler](https://github.com/ankitkhatrik6/tu-compiler)** · `TypeScript`
+> small utilities chipping away at TU workflow annoyances
+
+**🎓 [nepgeo](https://github.com/ankitkhatrik6/nepgeo) · [sajilo-qr](https://github.com/ankitkhatrik6/sajilo-qr)** · `TypeScript`
+> Nepal-specific geo and QR utilities, built for reuse rather than one-offs
 
 </details>
 
@@ -108,11 +118,14 @@ Most nights I'm writing **TypeScript** — it's where I live now. **Python** sho
 <summary><b>because I wanted to see if I could</b></summary>
 <br/>
 
-| project | stack | what it does |
-|---|---|---|
-| [**8085-kit**](https://github.com/ankitkhatrik6/8085-kit) | TypeScript | interactive 3D simulator for the 8085 microprocessor — write assembly, watch registers & memory move in real time |
-| [**GitHouse**](https://github.com/ankitkhatrik6/GitHouse) | TypeScript | turns your GitHub activity into a generated little house — stateless, just for fun |
-| [**FlappyBird**](https://github.com/ankitkhatrik6/FlappyBird) | Python | the classic, re-implemented because why not |
+**⚡ [8085-kit](https://github.com/ankitkhatrik6/8085-kit)** · `TypeScript`
+> interactive 3D simulator for the 8085 microprocessor — write assembly, watch registers & memory move in real time
+
+**⚡ [GitHouse](https://github.com/ankitkhatrik6/GitHouse)** · `TypeScript`
+> turns your GitHub activity into a generated little house — stateless, just for fun
+
+**⚡ [FlappyBird](https://github.com/ankitkhatrik6/FlappyBird)** · `Python`
+> the classic, re-implemented because why not
 
 </details>
 
@@ -134,7 +147,7 @@ the graph doesn't lie.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitkhatrik6&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitkhatrik6&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
