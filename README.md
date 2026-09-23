@@ -1,15 +1,16 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/Fx3VWDj00X8zXDDSLK/giphy.gif" width="215" alt="hi hi!! waving~"/></td>
-    <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=42&duration=1&pause=999999&repeat=false&color=FF6FA5&center=true&vCenter=true&width=500&height=70&lines=Ankit+Khatri+KC" alt="Ankit Khatri KC"/>
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1200&color=FF6FA5&center=true&vCenter=true&width=620&lines=fullstack+dev+in+kathmandu+%E2%99%A1;I+build+things%2C+then+find+out+why+they+break;TU+%2F+Nepal-shaped+little+projects;AI%2FML+%26+security+curious+%E2%99%A1" alt="typing~"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/Fx3VWDj00X8zXDDSLK/giphy.gif" width="215" alt="hi hi!! waving~"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=42&duration=3000&pause=1000000&repeat=false&color=FF6FA5&center=true&vCenter=true&width=500&height=70&lines=Ankit+Khatri+KC" alt="Ankit Khatri KC"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1200&color=FF6FA5&center=true&vCenter=true&width=620&lines=fullstack+dev+in+kathmandu+%E2%99%A1;I+build+things%2C+then+find+out+why+they+break;TU+%2F+Nepal-shaped+little+projects;AI%2FML+%26+security+curious+%E2%99%A1" alt="typing~"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/BSc%20CSIT-2nd%20sem%20%40%20ASCOL-8B5CF6?style=for-the-badge&labelColor=FF8FBE"/>
